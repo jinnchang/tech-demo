@@ -1,0 +1,7 @@
+{
+  "plugins": ["prettier-plugin-lint-md"],
+  "useTabs": false,
+  "tabWidth": 2,
+  "bracketSpacing": true,
+  "singleAttributePerLine": true
+}

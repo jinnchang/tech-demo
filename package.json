@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "prettier-plugin-lint-md": "^1.0.1"
+  }
+}
