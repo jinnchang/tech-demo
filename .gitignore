@@ -1,6 +1,13 @@
 # Node
 node_modules/
 
+# Python
+demoenv/
+__pycache__/
+
+# Superpowers
+docs/
+
 # IDE
 .vscode/
 .claude/
